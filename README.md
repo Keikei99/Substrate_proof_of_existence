@@ -2,7 +2,7 @@
 
 1. **列出3个常用的宏、3个常用的存储数据结构。**
    
-   * 三种常用的宏：frame_support::pallet、pallet::hooks、construct_runtime
+* 三种常用的宏：frame_support::pallet、pallet::hooks、construct_runtime
 * 三种常用的存储数据结构：单值存储（StorageValue）、映射（StorageMap）、双键映射（StorageDoubleMap）
    
 2. **实现存证模块的功能，包括：创建存证；撤销存证。**
